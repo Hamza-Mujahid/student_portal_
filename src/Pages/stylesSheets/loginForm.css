@@ -1,0 +1,9 @@
+.loginForm{
+    display:flex;
+    align-items: column;
+    justify-content: center;
+    background-color: #45a0c9;
+    padding: 25px;
+}
+form{
+}
